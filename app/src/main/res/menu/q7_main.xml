@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="User">
+        <menu>
+            <item android:id="@+id/home"
+                android:title="Home"
+                android:icon="@drawable/ic_home"/>
+
+            <item android:id="@+id/gallery"
+                android:title="Gallery"
+                android:icon="@drawable/ic_gallery"/>
+
+            <item android:id="@+id/slideshow"
+                android:title="Slideshow"
+                android:icon="@drawable/ic_slideshow"/>
+
+            <item android:id="@+id/contact"
+                android:title="Contact"
+                android:icon="@drawable/ic_contact"/>
+
+            <item android:id="@+id/email"
+                android:title="Email"
+                android:icon="@drawable/ic_email"/>
+
+        </menu>
+
+    </item>
+
+
+</menu>
